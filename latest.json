@@ -1,0 +1,15 @@
+{
+  "updated": "2026-11-04T19:30:00Z",
+  "stable": {
+    "version": "2.3.1",
+    "versionCode": 8,
+    "url": "https://github.com/dinosnore1/pihole-tv/releases/latest",
+    "notes": "TV navigation rail, phone bottom navigation, System/Dark/Light themes, dropdown settings and popup polish."
+  },
+  "beta": {
+    "version": "2.3.1",
+    "versionCode": 8,
+    "url": "https://github.com/dinosnore1/pihole-tv/releases",
+    "notes": "Beta channel. New builds appear here first."
+  }
+}
