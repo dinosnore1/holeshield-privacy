@@ -9,7 +9,8 @@
   "beta": {
     "version": "2.3.2",
     "versionCode": 9,
-    "url": "https://github.com/dinosnore1/pihole-tv/releases/tag/v2.3.2-holeshield",
-    "notes": "Beta 2.3.2: web dashboard desktop/phone redesign, phone bottom navigation, update channel, theme modes and popup polish."
+    "url": "https://dinosnore1.github.io/holeshield-privacy/holeshield-2.3.2-beta.apk",
+    "notes": "Beta 2.3.2: web dashboard desktop/phone redesign, phone bottom navigation, update channel, theme modes and popup polish. The in-app update now downloads the APK directly.",
+    "apk": "https://dinosnore1.github.io/holeshield-privacy/holeshield-2.3.2-beta.apk"
   }
 }
