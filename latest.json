@@ -1,10 +1,10 @@
 {
   "updated": "2026-11-05T00:30:00Z",
   "stable": {
-    "version": "2.3.1",
-    "versionCode": 8,
-    "url": "https://github.com/dinosnore1/pihole-tv/releases/latest",
-    "notes": "TV navigation rail, phone bottom navigation, System/Dark/Light themes, dropdown settings and popup polish."
+    "version": "2.3.0",
+    "versionCode": 7,
+    "url": "https://github.com/dinosnore1/pihole-tv/releases/tag/v2.3.0-holeshield",
+    "notes": "Stable 2.3.0: opt-in sharing, notification/tile/widget controls, backup, login hardening and dashboard upgrades."
   },
   "beta": {
     "version": "2.3.2",
