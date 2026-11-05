@@ -13,5 +13,10 @@
     "url": "https://github.com/dinosnore1/holeshield/releases/tag/v2.3.3-holeshield",
     "apk": "https://dinosnore1.github.io/holeshield-privacy/holeshield-2.3.3.apk",
     "notes": "Hole Shield 2.3.3 stable: standalone cleanup release with APK-only distribution, legacy external-server code removed, and 23 maintained blocklists."
+  },
+  "desktop": {
+    "version": "2.3.3",
+    "url": "https://github.com/dinosnore1/holeshield/releases/tag/v2.3.3-holeshield",
+    "notes": "Desktop 2.3.3: macOS DMG/PKG, Windows MSI/EXE, Linux DEB/RPM and portable JAR."
   }
 }
