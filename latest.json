@@ -1,16 +1,17 @@
 {
-  "updated": "2026-11-05T00:30:00Z",
+  "updated": "2026-11-06T00:00:00Z",
   "stable": {
-    "version": "2.3.0",
-    "versionCode": 7,
-    "url": "https://github.com/dinosnore1/holeshield/releases/tag/v2.3.0-holeshield",
-    "notes": "Stable 2.3.0: opt-in sharing, notification/tile/widget controls, backup, login hardening and dashboard upgrades."
+    "version": "2.3.3",
+    "versionCode": 10,
+    "url": "https://github.com/dinosnore1/holeshield/releases/tag/v2.3.3-holeshield",
+    "apk": "https://dinosnore1.github.io/holeshield-privacy/holeshield-2.3.3.apk",
+    "notes": "Hole Shield 2.3.3 stable: standalone cleanup release with APK-only distribution, legacy external-server code removed, and 23 maintained blocklists."
   },
   "beta": {
-    "version": "2.3.2",
-    "versionCode": 9,
-    "url": "https://dinosnore1.github.io/holeshield-privacy/holeshield-2.3.2-beta.apk",
-    "notes": "Beta 2.3.2: web dashboard desktop/phone redesign, phone bottom navigation, update channel, theme modes and popup polish. The in-app update now downloads the APK directly.",
-    "apk": "https://dinosnore1.github.io/holeshield-privacy/holeshield-2.3.2-beta.apk"
+    "version": "2.3.3",
+    "versionCode": 10,
+    "url": "https://github.com/dinosnore1/holeshield/releases/tag/v2.3.3-holeshield",
+    "apk": "https://dinosnore1.github.io/holeshield-privacy/holeshield-2.3.3.apk",
+    "notes": "Hole Shield 2.3.3 stable: standalone cleanup release with APK-only distribution, legacy external-server code removed, and 23 maintained blocklists."
   }
 }
