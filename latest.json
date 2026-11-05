@@ -3,7 +3,7 @@
   "stable": {
     "version": "2.3.0",
     "versionCode": 7,
-    "url": "https://github.com/dinosnore1/pihole-tv/releases/tag/v2.3.0-holeshield",
+    "url": "https://github.com/dinosnore1/holeshield/releases/tag/v2.3.0-holeshield",
     "notes": "Stable 2.3.0: opt-in sharing, notification/tile/widget controls, backup, login hardening and dashboard upgrades."
   },
   "beta": {
