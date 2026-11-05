@@ -5,14 +5,14 @@
     "versionCode": 10,
     "url": "https://github.com/dinosnore1/holeshield/releases/tag/v2.3.3-holeshield",
     "apk": "https://dinosnore1.github.io/holeshield-privacy/holeshield-2.3.3.apk",
-    "notes": "Hole Shield 2.3.3 stable: standalone cleanup release with APK-only distribution, legacy external-server code removed, and 23 maintained blocklists."
+    "notes": "Hole Shield 2.3.3 stable: Android APK plus macOS, Windows and Linux desktop installers; legacy external-server code removed and 23 maintained blocklists."
   },
   "beta": {
     "version": "2.3.3",
     "versionCode": 10,
     "url": "https://github.com/dinosnore1/holeshield/releases/tag/v2.3.3-holeshield",
     "apk": "https://dinosnore1.github.io/holeshield-privacy/holeshield-2.3.3.apk",
-    "notes": "Hole Shield 2.3.3 stable: standalone cleanup release with APK-only distribution, legacy external-server code removed, and 23 maintained blocklists."
+    "notes": "Hole Shield 2.3.3 stable: Android APK plus macOS, Windows and Linux desktop installers; legacy external-server code removed and 23 maintained blocklists."
   },
   "desktop": {
     "version": "2.3.3",
