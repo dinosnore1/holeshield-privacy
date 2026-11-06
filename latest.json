@@ -17,6 +17,6 @@
   "desktop": {
     "version": "2.3.3",
     "url": "https://github.com/dinosnore1/holeshield/releases/tag/v2.3.3-holeshield",
-    "notes": "Desktop 2.3.3: macOS DMG/PKG, Windows MSI/EXE and Linux DEB/RPM."
+    "notes": "Desktop 2.3.3: universal macOS PKG for Intel and Apple Silicon, Windows MSI/EXE and Linux DEB/RPM."
   }
 }
